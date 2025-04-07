@@ -1,12 +1,11 @@
 {
-    "name": "rollup-plugin-worker",
-    "version": "1.0.0",
+    "name": "rollup-plugin-worker-plus",
+    "version": "1.0.1",
     "description": "基于 Web Worker 实现的多线程计算方法，提供了 Rollup， Vite 钩子，可让项目中的 JS 模块多线程运行",
     "type": "module",
     "main": "src/index.js",
     "scripts": {
-        "prepublish": "npm version patch",
-        "log": "standard-version"
+        "prepublish": "npm version patch"
     },
     "files": [
         "src/",

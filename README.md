@@ -1,4 +1,4 @@
-# Rollup-Plugin-Worker
+# Rollup-Plugin-Worker-Plus
 
 ### 介绍
 
