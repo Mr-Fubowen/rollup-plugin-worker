@@ -16,7 +16,7 @@
     "dependencies": {},
     "repository": {
         "type": "github",
-        "url": "https://github.com/Mr-Fubowen/web-worker-plus.git"
+        "url": "https://github.com/Mr-Fubowen/rollup-plugin-worker"
     },
     "keywords": [
         "Web Worker",
